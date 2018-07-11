@@ -65,5 +65,6 @@ Now your project should be successfully deployed on heroku.
 ## Future Updates
 
 1.  reset page button
+2.  Only can console.log(saved articles) will work on updating the app to actually show the saved articles on the page.
 
 
