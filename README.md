@@ -64,5 +64,6 @@ Now your project should be successfully deployed on heroku.
 
 ## Future Updates
 
-1. [ ] reset page button
+1.  reset page button
+2.  ability to save articles does not work right now.
 
