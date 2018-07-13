@@ -143,7 +143,7 @@ class Main extends Component {
             <hr />
             <p className="pull-right">
               <i className="fa fa-github" aria-hidden="true"></i>
-              Thank you Scott and Jonathan for your help.
+              Thank you to the TA's Tyler and Scott, and to Jonathan our instructor for helping me with this app.
             </p>
           </footer>
         </div>
